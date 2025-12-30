@@ -1,15 +1,66 @@
 <link rel="stylesheet" href="assets/css/style.css">
 
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>SpecOps Security Test</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpecOps Security</title>
+    <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-    <h1>It works!</h1>
-    <p>If you see this, GitHub Pages is serving correctly.</p>
-</body>
-</html>
+    <!-- Header / Hero -->
+    <header class="hero">
+        <div class="container">
+            <img src="assets/images/logo.png" alt="SpecOps Security Logo" class="logo">
+            <h1>SpecOps Security</h1>
+            <p>We assess, remediate, and harden your digital systems.</p>
+            <a href="contact.html" class="btn">Request a Free Assessment</a>
+        </div>
+    </header>
+
+    <!-- Services Section -->
+    <section class="services">
+        <div class="container">
+            <h2>Our Services</h2>
+            <div class="service-cards">
+                <div class="card">
+                    <h3>Assessment</h3>
+                    <p>Identify vulnerabilities in your systems and networks before attackers do.</p>
+                </div>
+                <div class="card">
+                    <h3>Remediation</h3>
+                    <p>Fix weaknesses and strengthen your defenses with our expert guidance.</p>
+                </div>
+                <div class="card">
+                    <h3>Hardening</h3>
+                    <p>Implement advanced security controls to protect your organization long-term.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about">
+        <div class="container">
+            <h2>Why SpecOps Security?</h2>
+            <p>We focus on small-to-mid organizations, providing hands-on cybersecurity services that actually make a difference.</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact-cta">
+        <div class="container">
+            <h2>Get in Touch</h2>
+            <p>Have questions or want a consultation? Reach out today!</p>
+            <a href="contact.html" class="btn">Contact Us</a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 SpecOps Security. All rights reserved.</p>
+
 
 
