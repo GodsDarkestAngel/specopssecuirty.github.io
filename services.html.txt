@@ -1,0 +1,44 @@
+<link rel="stylesheet" href="assets/css/style.css">
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpecOps Security | Services</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>SpecOps Security</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="services.html">Services</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <h2>Our Services</h2>
+        <div class="services">
+            <div class="service">
+                <h3>Security Assessments</h3>
+                <p>Comprehensive evaluations of your systems, networks, and policies to identify risks and vulnerabilities.</p>
+            </div>
+            <div class="service">
+                <h3>Remediation & Hardening</h3>
+                <p>Actionable guidance to fix vulnerabilities and strengthen your security posture against attacks.</p>
+            </div>
+            <div class="service">
+                <h3>Advisory & Strategy</h3>
+                <p>Tailored advice for ongoing cybersecurity improvements, compliance, and incident readiness.</p>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        &copy; 2025 SpecOps Security. All rights reserved.
+    </footer>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<link rel="stylesheet" href="assets/css/style.css">
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SpecOps Security | Home</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+    <header>
+        <h1>SpecOps Security</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="services.html">Services</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>Welcome to SpecOps Security</h2>
+            <p>We help small and mid-sized businesses assess, remediate, and harden real-world systems against cyber threats. Our approach is risk-based, standards-aligned, and practical for real-world operations.</p>
+        </section>
+
+        <section>
+            <h2>Why Choose Us</h2>
+            <ul>
+                <li>Expert security assessments tailored to your environment</li>
+                <li>Actionable remediation and hardening guidance</li>
+                <li>Proven methodologies and industry best practices</li>
+                <li>Confidential and professional service</li>
+            </ul>
+        </section>
+    </div>
+
+    <footer>
+        &copy; 2025 SpecOps Security. All rights reserved.
+    </footer>
+</body>
+</html>
